@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 //Nombre: Casquete Rodriguez Jean Pier 3C
 // Aqui uso el patron de diseño Singleton para mostrar los datos de un restaurante en los folletos del menu
-namespace ConsoleApp1
+namespace Examen2doCasqueteJean3C
 {
     public class PatronSingleton
     {
